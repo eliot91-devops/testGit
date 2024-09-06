@@ -4,3 +4,4 @@ test for rebase
 new line
 make rebase branch
 make rebase branch2
+make rebase branch3
