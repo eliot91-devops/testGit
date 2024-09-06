@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-modify main branch
-=======
-modify coupon branch
->>>>>>> coupon
+aaaaaaaaaaaaaa
 bbbbbbb
 dddddddddddddd
+eeeeeeeeeee
