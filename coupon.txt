@@ -5,3 +5,4 @@ new line
 make rebase branch
 make rebase branch2
 make rebase branch3
+make rebase branch4
